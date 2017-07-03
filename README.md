@@ -47,7 +47,7 @@
 AddSection页面
 =======
 >
-![AddSection](/images/AddSection.jpg)
+![addSection](/images/AddSection.jpg)
 数据库前后对比
 =======
 >
